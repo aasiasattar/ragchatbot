@@ -118,4 +118,12 @@ or rules.
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License** — you're free to use, copy,
+change, and share it (even commercially), just keep the copyright notice.
+See the [LICENSE](LICENSE) file for details.
+
+---
+
 Made with ❤️ using n8n. Feel free to download, import, and reuse anytime.
