@@ -21,6 +21,33 @@ pipeline on the left and the chat/AI-agent side on the right:
 
 ---
 
+## 🎬 Demo
+
+> **A short demo clip goes here.** Record yourself uploading a document and asking
+> the bot a question, then drop the file in and it will appear below.
+
+<!--
+  HOW TO ADD YOUR DEMO (pick one):
+
+  ▶ Option A — GIF (recommended, plays automatically, no click needed):
+     1. Record your screen with a free tool:
+          • ScreenToGif (Windows, free)  → https://www.screentogif.com
+          • Or record a video, then convert at https://ezgif.com/video-to-gif
+     2. Save the file as:  screenshot/demo.gif
+     3. Uncomment the line below:
+-->
+<!-- ![RAG Chat Bot demo](screenshot/demo.gif) -->
+
+<!--
+  ▶ Option B — Video (MP4): GitHub can't embed a local MP4, but you can either
+     • drag the .mp4 into this README while editing it on github.com (GitHub
+       auto-uploads and inserts it), or
+     • upload it to YouTube and paste a thumbnail link:
+-->
+<!-- [![Watch the demo](screenshot/Screenshot%202026-09-01%20181622.png)](https://youtu.be/YOUR_VIDEO_ID) -->
+
+---
+
 ## ✨ What this bot does
 
 There are **two parts** to the workflow:
