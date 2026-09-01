@@ -8,7 +8,16 @@ information inside those documents — like a smart assistant that has *read* yo
 > **retrieves** the right piece of your document, then **generates** an answer
 > based on it — so replies stay accurate instead of made-up.
 
-![Workflow screenshot](screenshot/Screenshot%202026-09-01%20181622.png)
+---
+
+## 📸 Preview
+
+Here is the complete workflow as it looks inside n8n — the document-upload
+pipeline on the left and the chat/AI-agent side on the right:
+
+<p align="center">
+  <img src="screenshot/Screenshot%202026-09-01%20181622.png" alt="RAG Chat Bot workflow in n8n" width="100%">
+</p>
 
 ---
 
